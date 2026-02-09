@@ -1,0 +1,58 @@
+testName,testSection,sampleType,loinc,isActive,isOrderable,sortOrder,unitOfMeasure,englishName,frenchName
+Determine,Serology,Plasma,,Y,Y,1,n/a,Determine,Determine
+Determine,Serology,Serum,,Y,Y,2,n/a,Determine,Determine
+Determine,Serology,Whole blood,,Y,Y,3,n/a,Determine,Determine
+Bioline,Serology,Plasma,,Y,Y,4,n/a,Bioline,Bioline
+Bioline,Serology,Serum,,Y,Y,5,n/a,Bioline,Bioline
+Bioline,Serology,Whole blood,,Y,Y,6,n/a,Bioline,Bioline
+Stat PaK,Serology,Plasma,,Y,Y,7,n/a,Stat PaK,Stat PaK
+Stat PaK,Serology,Serum,,Y,Y,8,n/a,Stat PaK,Stat PaK
+Stat PaK,Serology,Whole blood,,Y,Y,9,n/a,Stat PaK,Stat PaK
+CD4 Absolute count (mm3),Immunology,Whole blood,,Y,Y,10,mm3,CD4 Absolute count (mm3),Dénombrement des lymphocytes CD4 (mm3)
+CD4 percent  (%),Immunology,Whole blood,,Y,Y,11,%,CD4 percent  (%),Dénombrement des lymphocytes  CD4 (%)
+GPT/ALAT,Biochemistry,Serum,,Y,Y,12,UI/L,GPT/ALAT,Transaminases GPT (37°C)
+GOT/ASAT,Biochemistry,Serum,,Y,Y,13,UI/L,GOT/ASAT,Transaminases G0T (37°C)
+Glucose,Biochemistry,Plasma,,Y,Y,14,g/l,Glucose,Glucose
+Glucose,Biochemistry,Serum,,Y,Y,15,g/l,Glucose,Glucose
+Creatinine,Biochemistry,Serum,,Y,Y,16,mg/l,Creatinine,Créatinine
+Amylase,Biochemistry,Serum,,Y,Y,17,UI/L,Amylase,Amylase
+Albumin,Biochemistry,Urines,,Y,Y,18,g/l,Albumin,Albumine recherche miction
+Total cholesterol,Biochemistry,Serum,,Y,Y,19,g/l,Total cholesterol,Cholestérol total
+HDL cholesterol,Biochemistry,Serum,,Y,Y,20,g/l,HDL cholesterol,Cholestérol HDL
+Triglicerides,Biochemistry,Serum,,Y,Y,21,g/l,Triglicerides,Triglycérides
+Viral load,Immunology,whole blood,,Y,Y,22,copies/ml,Viral load,Mesure de la charge virale
+Beta HCG,Biochemistry,Urines,,Y,Y,23,g/l,Beta HCG,Prolans (BHCG) urines de 24 h
+White Blood Cells Count (WBC),Hematology,whole blood,,Y,Y,24,mille/mm3,White Blood Cells Count (WBC),Numération des globules blancs
+Red Blood Cells Count (RBC),Hematology,whole blood,,Y,Y,25,million/mm3,Red Blood Cells Count (RBC),Numération des globules rouges
+Hemoglobin,Hematology,whole blood,,Y,Y,26,g/dl,Hemoglobin,Hémoglobine
+Hematocrit,Hematology,whole blood,,Y,Y,27,%,Hematocrit,Hémotocrite
+Medium corpuscular volum,Hematology,whole blood,,Y,Y,28,fl,Medium corpuscular volum,Volume Globulaire Moyen
+TMCH,Hematology,whole blood,,Y,Y,29,pg,TMCH,Teneur Corpusculaire Moyenne en Hémoglobine
+CMCH,Hematology,whole blood,,Y,Y,30,%,CMCH,Concentration Corpusculaire Moyenne en Hémoglobine
+Platelets,Hematology,whole blood,,Y,Y,31,mille/mm3,Platelets,Plaquette
+Neutrophiles (%),Hematology,whole blood,,Y,Y,32,%,Neutrophiles (%),Polynucléaires Neutrophiles (%)
+Neutrophiles,Hematology,whole blood,,Y,Y,33,/mm3,Neutrophiles,Polynucléaires Neutrophiles (Abs)
+Eosinophiles (%),Hematology,whole blood,,Y,Y,34,%,Eosinophiles (%),Polynucléaires Eosinophiles (%)
+Eosinophiles,Hematology,whole blood,,Y,Y,35,/mm3,Eosinophiles,Polynucléaires Eosinophiles (Abs)
+Basophiles (%),Hematology,whole blood,,Y,Y,36,%,Basophiles (%),Polynucléaires basophiles (%)
+Basophiles,Hematology,whole blood,,Y,Y,37,/mm3,Basophiles,Polynucléaires basophiles (Abs)
+Lymphocytes (%),Hematology,whole blood,,Y,Y,38,%,Lymphocytes (%),Lymphocytes (%)
+Lymphocytes (Abs),Hematology,whole blood,,Y,Y,39,/mm3,Lymphocytes (Abs),Lymphocytes (Abs)
+Monocytes (%),Hematology,whole blood,,Y,Y,40,%,Monocytes (%),Monocytes (%)
+Monocytes (Abs),Hematology,whole blood,,Y,Y,41,/mm3,Monocytes (Abs),Monocytes (Abs)
+HBsAg (Hepatitis B surface antigen),Serology,Serum,,Y,Y,42,n/a,HBsAg (Hepatitis B surface antigen),HBs AG (antigén australia)
+Urine prenancy test,Biochemistry,Urines,,Y,Y,43,n/a,Urine prenancy test,Test urinaire de grossesse
+Proteinuria dipstick,Biochemistry,Urines,,Y,Y,44,n/a,Proteinuria dipstick,Protéinurie sur bandelette
+Genie II,Serology,Serum,,Y,Y,45,n/a,Genie II,Genie II
+Genie II,Serology,Plasma,,Y,Y,46,n/a,Genie II,Genie II
+Genie II 10,Serology,Serum,,Y,Y,47,n/a,Genie II 10,Genie II 1/10
+Genie II 10,Serology,Plasma,,Y,Y,48,n/a,Genie II 10,Genie II 1/10
+Genie II 100,Serology,Serum,,Y,Y,49,n/a,Genie II 100,Genie II 1/100
+Genie II 100,Serology,Plasma,,Y,Y,50,n/a,Genie II 100,Genie II 1/100
+Vironstika,Serology,Serum,,Y,Y,51,n/a,Vironstika,Vironstika
+Murex,Serology,Serum,,Y,Y,52,n/a,Murex,Murex
+Integral,Serology,Serum,,Y,Y,53,n/a,Integral,Integral
+Western blot 1,Serology,Serum,,Y,Y,54,n/a,Western blot 1,Western blot 1
+Western blot 2,Serology,Serum,,Y,Y,55,n/a,Western blot 2,Western blot 2
+p24Ag,Serology,Serum,,Y,Y,56,n/a,p24Ag,p24Ag
+DNA PCR,Serology,Serum,,Y,Y,57,n/a,DNA PCR,DNA PCR
