@@ -56,3 +56,13 @@ Western blot 1,Serology,Serum,,Y,Y,54,n/a,Western blot 1,Western blot 1
 Western blot 2,Serology,Serum,,Y,Y,55,n/a,Western blot 2,Western blot 2
 p24Ag,Serology,Serum,,Y,Y,56,n/a,p24Ag,p24Ag
 DNA PCR,Serology,Serum,,Y,Y,57,n/a,DNA PCR,DNA PCR
+Hemoglobin (Bld) [Mass/Vol],Hematology,Bld,718-7,Y,Y,58,g/dL,Hemoglobin (Bld) [Mass/Vol],
+Hematocrit Auto (Bld) [Volume fraction],Hematology,Bld,4544-3,Y,Y,59,g/dL,Hematocrit Auto (Bld) [Volume fraction],
+RBC Auto (Bld) [#/Vol],Hematology,Bld,789-8,Y,Y,60,10*6/µL,RBC Auto (Bld) [#/Vol],
+MCV Auto (RBC) [Entitic mean vol],Hematology,RBC,787-2,Y,Y,61,fL,MCV Auto (RBC) [Entitic mean vol],
+MCH Auto (RBC) [Entitic mass],Hematology,RBC,785-6,Y,Y,62,pg,MCH Auto (RBC) [Entitic mass],
+Microscopic observation Acid fast stain Nom (Sput),Microbiology,Sputum,11477-7,Y,Y,63,n/a,Microscopic observation Acid fast stain Nom (Sput),
+Microscopic observation Acid fast stain Nom (Skin),Microbiology,Skin,94543-6,Y,Y,64,n/a,Microscopic observation Acid fast stain Nom (Skin),
+Microscopic observation Gram stain Nom (Genital specimen),Microbiology,Genital,48712-4,Y,Y,65,n/a,Microscopic observation Gram stain Nom (Genital specimen),
+T. vaginalis Wet prep Ql (Genital specimen),Microbiology,Genital,6565-6,Y,Y,66,n/a,T. vaginalis Wet prep Ql (Genital specimen),
+Microscopic observation KOH prep Nom (Vag fld),Microbiology,Vag,14356-0,Y,Y,67,n/a,Microscopic observation KOH prep Nom (Vag fld),
